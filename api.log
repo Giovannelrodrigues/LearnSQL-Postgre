@@ -1,0 +1,28 @@
+2021-09-20T22:27:39.908Z [store.api] errorPOST  "Name, cpf, email, phone e adress is required" is not a constructor
+2021-09-20T22:30:08.711Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:30:49.923Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:34:22.241Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:34:26.564Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:34:27.824Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:34:38.292Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:35:45.782Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:38:35.771Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:38:37.089Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-20T22:38:48.962Z [store.api] errorPOST  column "address" of relation "clientes" does not exist
+2021-09-30T20:08:51.861Z [store.api] errorPOST  "Name, cpf, email, phone e adress is required" is not a constructor
+2021-09-30T20:11:15.236Z [store.api] errorDELETE  deleted is not defined
+2021-09-30T20:13:10.846Z [store.api] errorPUT  syntax error at or near "="
+2021-09-30T20:13:46.504Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:13:54.814Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:14:40.431Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:14:41.499Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:14:42.234Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:14:42.978Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:14:53.757Z [store.api] errorPUT  syntax error at or near "$1"
+2021-09-30T20:16:00.142Z [store.api] errorPUT  syntax error at or near "VALUES"
+2021-09-30T20:17:41.210Z [store.api] errorPUT  syntax error at or near "="
+2021-09-30T20:18:08.540Z [store.api] errorPUT  syntax error at or near "="
+2021-09-30T20:19:41.438Z [store.api] errorPUT  syntax error at or near "FROM"
+2021-09-30T20:20:05.090Z [store.api] errorPUT  syntax error at or near "VALUES"
+2021-09-30T20:21:18.033Z [store.api] errorPUT  syntax error at or near ")"
+2021-09-30T20:21:25.338Z [store.api] errorPUT  column "client_id" does not exist
